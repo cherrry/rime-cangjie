@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "argparse": "^2.0.1",
-    "fontkit": "^1.8.1"
+    "array-shuffle": "^2.0.0",
+    "fontkit": "^1.8.1",
+    "hanzi": "^2.1.5"
   }
 }
