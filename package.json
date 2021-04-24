@@ -1,0 +1,9 @@
+{
+  "name": "rime-cangjie",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "fontkit": "^1.8.1"
+  }
+}
