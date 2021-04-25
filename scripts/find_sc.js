@@ -17,8 +17,6 @@ const SC_COMPONENTS = new Set([
   '丬', '仑', '仓', '齐', '冈',
   '娄', '尽', '奂', '罗', '无',
   '楽', '厨', '亚',
-  // Unused variants
-  '兑',
 ]);
 
 const DICT = [];
