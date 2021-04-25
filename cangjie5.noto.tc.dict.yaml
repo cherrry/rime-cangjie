@@ -2339,7 +2339,6 @@ encoder:
 栐	dine
 櫠	dine
 榳	ding
-檪	diod
 椨	dioi
 杙	dip
 樲	dipc
@@ -7178,7 +7177,6 @@ encoder:
 庂	io
 資	iobuc
 庥	iod
-楽	iod
 栥	iod
 府	iodi
 粢	iofd
@@ -8829,6 +8827,7 @@ encoder:
 蛭	limig
 虷	limj
 蜽	limlb
+蟵	limmi
 蚖	limmu
 蜄	limmv
 虰	limn
@@ -11242,6 +11241,7 @@ encoder:
 疎	nmdl
 彌	nmfb
 彞	nmfft
+鲅	nmike
 蜑	nmlmi
 彐	nmm
 夛	nmmn
@@ -12660,6 +12660,7 @@ encoder:
 愯	poge
 憔	pogf
 懏	pogs
+怜	poii
 懺	poim
 忴	poin
 惗	poip
@@ -13318,6 +13319,7 @@ encoder:
 揼	qmre
 揊	qmrw
 扼	qmsu
+挜	qmtc
 撅	qmto
 扤	qmu
 撍	qmua
@@ -13586,6 +13588,7 @@ encoder:
 攂	qwww
 拇	qwyi	qwy'i
 憃	qxp
+扑	qy
 掉	qyaj
 揥	qybb
 撾	qybb
@@ -13848,6 +13851,7 @@ encoder:
 噅	rikf
 嘃	rilb
 唥	rimi
+咏	rine
 雖	riog
 唉	riok
 咍	rir
@@ -14182,6 +14186,7 @@ encoder:
 躅	rmwli
 蹕	rmwtj
 喓	rmwv
+吓	rmy
 踔	rmyaj
 蹆	rmyav
 蹄	rmybb
@@ -15631,7 +15636,6 @@ encoder:
 藏	tims
 芝	tino
 薋	tioc
-薬	tiod
 蓙	tiog
 懟	tip
 芅	tip
@@ -16235,6 +16239,7 @@ encoder:
 苣	tss
 芑	tsu
 井	tt
+并	tt
 卌	tt
 葥	ttbn
 並	ttc
@@ -19681,7 +19686,6 @@ encoder:
 奙	xiklu
 慦	xikp
 亠	xim
-楽	xiod
 噟	xiogr
 庀	xip
 麃	xipf
@@ -20203,6 +20207,7 @@ encoder:
 藯	xtsip
 茞	xtsll
 苨	xtsp
+并	xtt
 蘳	xttcg
 鵧	xttha
 艵	xttna
@@ -21313,6 +21318,7 @@ encoder:
 㬐	amia
 㫤	amne
 㬏	amrb
+㫫	amtc
 㫕	amu
 㬓	amwf
 䦔	anam
@@ -22896,6 +22902,7 @@ encoder:
 䄼	hdmow
 䄷	hdmr
 䄯	hdmt
+䅉	hdmtc
 䅾	hdmua
 䄰	hdmvh
 䅶	hdmvi
@@ -24264,6 +24271,7 @@ encoder:
 㡋	lbklu
 㡁	lbkms
 㡞	lbllv
+㡡	lbmmi
 䝉	lbmso
 㼙	lbmvn
 㠷	lbnhe
@@ -24941,6 +24949,7 @@ encoder:
 䝃	mtavf
 㿼	mtbt
 䙹	mtbuu
+䴡	mtcp
 䜵	mtdhe
 䜹	mtdl
 䊙	mtfd
