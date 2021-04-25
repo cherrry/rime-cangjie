@@ -16,7 +16,9 @@ const SC_COMPONENTS = new Set([
   '呙', '历', '区', '兴', '风',
   '丬', '仑', '仓', '齐', '冈',
   '娄', '尽', '奂', '罗', '无',
-  '楽',
+  '楽', '厨', '亚',
+  // Unused variants
+  '兑',
 ]);
 
 const DICT = [];
@@ -86,8 +88,9 @@ rl.on('line', function() {
       return;
     }
     defs.forEach(function ({traditional}) {
-      // console.error(traditional);
-      TC_WORDS.add(traditional);
+      if (!SC_WORDS.has(traditional)) {
+        TC_WORDS.add(traditional);
+      }
     });
   });
   console.error('After Lookup TC', TC_WORDS.size);

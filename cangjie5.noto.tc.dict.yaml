@@ -235,7 +235,6 @@ encoder:
 闃	anbuk
 曕	ancr
 閱	ancru
-閲	ancru
 閑	and
 閉	andh
 闈	andmq
@@ -1343,7 +1342,6 @@ encoder:
 鋊	ccor
 鉛	ccr
 銳	ccru
-鋭	ccru
 鈖	ccsh
 鏳	ccwa
 鈢	cd
@@ -1914,7 +1912,6 @@ encoder:
 鑴	cuob
 鏙	cuog
 敓	cuok
-敚	cuok
 尦	cupi
 鈯	cuu
 釹	cv
@@ -2107,7 +2104,6 @@ encoder:
 梯	dcnh
 柗	dcr
 梲	dcru
-棁	dcru
 枌	dcsh
 橧	dcwa
 林	dd
@@ -3111,7 +3107,6 @@ encoder:
 浴	ecor
 沿	ecr
 涗	ecru
-涚	ecru
 汾	ecsh
 湓	ecst
 潧	ecwa
@@ -8588,7 +8583,6 @@ encoder:
 衳	lci
 鄪	lcnl
 裕	lcor
-裞	lcru
 衯	lcsh
 襋	ldbb
 襟	lddf
@@ -8827,7 +8821,6 @@ encoder:
 蛭	limig
 虷	limj
 蜽	limlb
-蟵	limmi
 蚖	limmu
 蜄	limmv
 虰	limn
@@ -11241,7 +11234,6 @@ encoder:
 疎	nmdl
 彌	nmfb
 彞	nmfft
-鲅	nmike
 蜑	nmlmi
 彐	nmm
 夛	nmmn
@@ -12924,7 +12916,6 @@ encoder:
 撳	qcno
 搃	qcrp
 挩	qcru
-捝	qcru
 扮	qcsh
 耒	qd
 揸	qdam
@@ -13319,7 +13310,6 @@ encoder:
 揼	qmre
 揊	qmrw
 扼	qmsu
-挜	qmtc
 撅	qmto
 扤	qmu
 撍	qmua
@@ -18546,7 +18536,6 @@ encoder:
 訟	yrci
 諡	yrcmt
 說	yrcru
-説	yrcru
 訜	yrcsh
 譄	yrcwa
 諃	yrdd
@@ -19225,7 +19214,6 @@ encoder:
 昞	xamob
 鼌	xamru
 冕	xanau
-閲	xancr
 欥	xano
 昒	xaphh
 暅	xapmm
@@ -19288,7 +19276,6 @@ encoder:
 腣	xbybb
 膧	xbytg
 釡	xcc
-鋭	xccru
 釥	xcf
 鑜	xcfbc
 鳻	xchha
@@ -19325,7 +19312,6 @@ encoder:
 弅	xcsht
 鑖	xctwi
 鑁	xcuce
-敚	xcuok
 曽	xcwa
 鐹	xcybb
 銃	xcyiu
@@ -19339,7 +19325,6 @@ encoder:
 枬	xdby
 朩	xdc
 枩	xdci
-棁	xdcru
 鬰	xddbu
 燓	xddf
 壄	xddg
@@ -19412,7 +19397,6 @@ encoder:
 濉	xebug
 覌	xebuu
 汃	xec
-涚	xecru
 瀬	xedlc
 漱	xedlo
 叒	xeee
@@ -19991,7 +19975,6 @@ encoder:
 擝	xqabt
 掲	xqapp
 捦	xqc
-捝	xqcru
 撹	xqfbu
 洯	xqhe
 揷	xqhjl
@@ -20561,7 +20544,6 @@ encoder:
 詗	xyrbr
 毫	xyrbu
 誢	xyrbu
-説	xyrcr
 謻	xyrhd
 訉	xyrhn
 訠	xyrnl
@@ -21318,7 +21300,6 @@ encoder:
 㬐	amia
 㫤	amne
 㬏	amrb
-㫫	amtc
 㫕	amu
 㬓	amwf
 䦔	anam
@@ -22902,7 +22883,6 @@ encoder:
 䄼	hdmow
 䄷	hdmr
 䄯	hdmt
-䅉	hdmtc
 䅾	hdmua
 䄰	hdmvh
 䅶	hdmvi
@@ -24271,7 +24251,6 @@ encoder:
 㡋	lbklu
 㡁	lbkms
 㡞	lbllv
-㡡	lbmmi
 䝉	lbmso
 㼙	lbmvn
 㠷	lbnhe
@@ -24949,7 +24928,6 @@ encoder:
 䝃	mtavf
 㿼	mtbt
 䙹	mtbuu
-䴡	mtcp
 䜵	mtdhe
 䜹	mtdl
 䊙	mtfd

@@ -16,6 +16,11 @@ let TC_WHITELIST = new Set([
   '咏',
   // SC False Positive
   '并', '怜',
+  // SC False Positive (Variants)
+  '祱', '痥', '帨', '鮵', '侻',
+  '哾', '駾', '莌', '娧', '綐',
+  '䬇', '䫄', '㙂', '䬈', '䂱',
+  '䬽', '㟋',
 ]);
 
 const sc_rl = readline.createInterface(fs.createReadStream(args.sc));

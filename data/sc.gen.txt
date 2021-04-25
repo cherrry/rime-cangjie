@@ -7,6 +7,7 @@
 昽	aikp
 晓	ajpu
 昙	ammi
+閲	ancru
 旸	ansh
 题	aombo
 晔	aopj
@@ -119,6 +120,7 @@
 写	bysm
 脑	byuk	byu'k
 錚	cbsd
+鋭	ccru
 颁	chmbo
 鹈	chpym
 颂	cimbo
@@ -132,12 +134,14 @@
 总	crp
 鹆	crpym
 贫	csho
+敚	cuok
 单	cwj
 兽	cwmr
 栅	dbbm
 枧	dbhu
 樱	dbov
 枣	dby
+棁	dcru
 椫	dcwj
 梦	ddni	ddn'i
 权	de
@@ -215,6 +219,7 @@
 懑	ebp
 泪	ebu
 泻	ebym
+涚	ecru
 对	edi
 濑	edlo
 颡	edmbo
@@ -522,6 +527,7 @@
 术	id
 书	ids
 视	ifbhu
+祱	ifcru
 禅	ifcwj
 应	ifm
 祢	ifnf
@@ -776,6 +782,7 @@
 牵	kbhq
 瘿	kbov
 痈	kbq	kb'q
+痥	kcru
 瘅	kcwj
 东	kd
 杀	kd
@@ -898,6 +905,7 @@
 奋	kw
 痹	kwml
 旧	la
+帨	lbcru
 裈	lbkq
 帐	lbpo
 帱	lbqki
@@ -906,6 +914,7 @@
 帜	lbrc
 帼	lbwmi	lbw'mi
 帧	lbybo
+裞	lcru
 衬	ldi
 袜	ldj
 鹇	ldpym
@@ -939,6 +948,7 @@
 螀	lilmi
 丬	lim
 醤	limcw
+蟵	limmi
 蛎	limms
 虾	limy
 蚂	linvm
@@ -1178,6 +1188,7 @@
 剥	neln
 卺	nemsu
 尔	nf
+鮵	nfcru
 玺	nfmgi
 颋	ngmbo
 骘	nhnvm
@@ -1241,6 +1252,7 @@
 骢	nmhwp
 鲵	nmhxu
 骏	nmice
+鲅	nmike
 骖	nmikh
 鲹	nmikh
 鱿	nmiku
@@ -1429,6 +1441,7 @@
 内	ob
 伣	obhu
 侧	obon
+侻	ocru
 叙	ode
 体	odm
 鸺	odpm
@@ -1826,6 +1839,7 @@
 摇	qbou
 撄	qbov
 拥	qbq	qb'q
+捝	qcru
 掸	qcwj
 耧	qdfdv
 摊	qeog
@@ -1877,6 +1891,7 @@
 麦	qme
 抚	qmku
 夀	qmrdi
+挜	qmtc
 换	qnbk
 专	qni
 挣	qnsd
@@ -1927,6 +1942,7 @@
 呗	rbo
 嘤	rbov
 鹃	rbpym
+哾	rcru
 啴	rcwj
 叹	re
 唢	rfbo
@@ -2017,6 +2033,7 @@
 屃	sbo
 颞	sembo
 鹥	sepym
+駾	sfcru
 屡	sfdv
 駆	sfsk
 鬇	shbsd
@@ -2084,6 +2101,7 @@
 蕲	tcjl
 邺	tcnl
 鹣	tcpym
+莌	tcru
 凿	tcuj	tcu'j
 莱	tdt
 荡	tenh
@@ -2206,9 +2224,11 @@
 嫒	vbbe
 姗	vbbm
 婙	vbsd
+娧	vcru
 婵	vcwj
 断	vdhml
 驽	venvm
+綐	vfcru
 嫱	vgcw
 娇	vhkl
 飨	vhoiv
@@ -2476,6 +2496,7 @@
 违	yqs
 觇	yrbhu
 諍	yrbsd
+説	yrcru
 点	yrf
 战	yri
 諍	yrnsd
@@ -2513,11 +2534,15 @@
 这	yyk
 暧	xabbe
 晖	xabkq
+閲	xancr
 脱	xbcru
 贱	xboij
 瞆	xbulm
 觃	xbund
+鋭	xccru
 兑	xcrhu
+敚	xcuok
+棁	xdcru
 栀	xdhmu
 桡	xdjpu
 橱	xdmmi
@@ -2527,6 +2552,7 @@
 构	xdpi
 赉	xdtbo
 懑	xebp
+涚	xecru
 双	xee
 烫	xehf
 溃	xelmo
@@ -2650,6 +2676,7 @@
 忾	xpomn
 贳	xptbo
 摇	xqbou
+捝	xqcru
 攒	xqhuo
 扩	xqi
 焘	xqif
@@ -2682,6 +2709,7 @@
 荣	xtbd
 茔	xtbg
 业	xtc
+莌	xtcru
 荛	xtjpu
 郑	xtknl
 茧	xtlmi
@@ -2715,6 +2743,7 @@
 遗	xylmo
 欤	xymno
 逊	xyndf
+説	xyrcr
 点	xyrf
 龈	xyuav
 龃	xyubm
@@ -2730,6 +2759,7 @@
 龌	xyusm
 龇	xyuym
 鹾	xywtq
+㫫	amtc
 㬇	anbk
 䦛	annsd
 㬹	bbsd
@@ -2745,6 +2775,8 @@
 䞏	bowp
 䏝	bqni
 䁖	bufdv
+䬇	cuhni
+䫄	cumbc
 㭎	dbk
 㭣	dlsr
 㭥	dnbo
@@ -2752,10 +2784,13 @@
 㭏	dqs
 㶉	ebkm
 㶽	frob
+㙂	gcru
 䅪	hdlmo
+䅉	hdmtc
 䅋	hdnau
 䠺	hhlsr
 䇲	hkt
+䬈	hncru
 䴘	hnpym
 㹑	hqipc
 㓆	imop
@@ -2775,6 +2810,7 @@
 䢁	kqb
 䢀	kqon
 䢂	kqyt
+㡡	lbmmi
 㡈	lbnau
 䙌	llmo
 䘞	lnvm
@@ -2785,8 +2821,10 @@
 䴓	mbpym
 㱮	mnlmo
 䴕	mnpym
+䂱	mrcru
 䃅	mrcwj
 䂵	mrmbo
+䴡	mtcp
 䩄	mwbhu
 䱢	nfnsd
 䲟	nmhpl
@@ -2799,6 +2837,7 @@
 䲞	nmyt
 䭪	nvamg
 㐽	ohnk
+䬽	oicru
 㑈	okd
 㑔	ombo
 㐷	onvm
@@ -2829,6 +2868,7 @@
 䴙	sryjm
 䓓	tqki
 䍵	tqnsd
+㟋	ucru
 㟆	uopj
 䋄	vfbk
 䋫	vfnsd
