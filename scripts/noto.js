@@ -13,6 +13,10 @@ const args = arg_parser.parse_args();
 let font = fontkit.openSync(args.font);
 let charSet = new Set(font.characterSet);
 
+let WHITELIST = new Set([
+  '𥄫',
+]);
+
 const rl = readline.createInterface(process.stdin);
 rl.on('line', function() {
   let is_dict = false;
@@ -28,7 +32,7 @@ rl.on('line', function() {
       let tabs = line.split('\t');
       const word = tabs[0];
       const code = word.charCodeAt(0);
-      if (charSet.has(code)) {
+      if (charSet.has(code) || WHITELIST.has(word)) {
         console.log(line);
       }
     }
