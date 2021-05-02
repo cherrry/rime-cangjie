@@ -1,0 +1,63 @@
+# encoding: utf-8
+#
+# Author: Kenneth So <kennethso168@gmail.com>
+# 修改自 https://github.com/definite/ibus-table-chinese 的 CangJie3 和 CangJie5 碼表
+# 該些碼表源於 chinesecj.com (倉頡之友‧馬來西亞)
+# License: LGPLv3
+#
+
+---
+name: "cangjie5.kanji.cj3ext"
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+- cangjie5
+...
+
+昨	ahs
+暇	arye
+楼	dlwv
+塊	ghi
+稗	hdhhj
+卑	hhj
+鬼	hi
+呑	hkr
+筑	hmnj
+乍	hs
+魔	idhi
+鷹	ighaf
+応	igp
+腐	iiobo
+窄	jchs
+麺	jnmwl
+蝦	lirye
+牌	llhhj
+非	lmyyy
+婁	lwlv
+霊	mbrrm
+霞	mbrye
+暦	mda
+歴	mdylm
+魂	mihi
+碑	mrhhj
+醜	mwhi
+酢	mwhs
+面	mwyl
+函	nue
+兎	nui
+作	ohs
+仮	orye
+咋	rhs
+嘱	rsyi
+屡	slwv
+属	syyi
+犀	syyq
+蒐	thi
+黄	tmwc
+菟	tnui
+彦	yhhhh
+産	yhhqm
+逸	ynui
+詐	yrhs
+遅	ysyq
