@@ -45,12 +45,14 @@ cj3ext_rl.on('line', function (line) {
       const word = tabs[0];
       const keys = tabs[1];
       if (keys !== encoding) {
-        if (CJ3EXT.hasOwnProperty(encoding)) {
-          repeated = repeated.concat(CJ3EXT[encoding]);
-        }
-        if (repeated.length > 1) {
+        if (repeated.length > 1 || CJ3EXT.hasOwnProperty(encoding)) {
           repeated.forEach(function (w) {
             console.log(`${w}\t${encoding}`);
+          });
+        }
+        if (CJ3EXT.hasOwnProperty(encoding)) {
+          CJ3EXT[encoding].forEach(function (w) {
+            console.log(`${w}\t${encoding}\t(cj3ext)`);
           });
         }
         encoding = keys;
