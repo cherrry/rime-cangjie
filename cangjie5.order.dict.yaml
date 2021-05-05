@@ -28,8 +28,8 @@ sort: original
 晑	ahbr
 星	ahqm
 甠	ahqm
-昈	ahs
 昨	ahs	(cj3ext)
+昈	ahs
 晟	aihs
 晠	aihs
 早	aj
@@ -128,8 +128,8 @@ sort: original
 冎	bmlb
 冄	bmm
 冃	bmm
-冡	bmmo
 冢	bmmo	(cj3ext)
+冡	bmmo
 腷	bmrw
 冨	bmrw
 豚	bmso
@@ -138,10 +138,10 @@ sort: original
 脕	bnau
 朐	bpr
 胊	bpr
-皿	bt
 冊	bt
-臓	btis
+皿	bt
 臟	btis
+臓	btis
 胼	btt
 肼	btt
 目	bu
@@ -307,8 +307,8 @@ sort: original
 椼	dhon
 棔	dhpa
 橁	dhpa
-枦	dhs
 柞	dhs	(cj3ext)
+枦	dhs
 檄	dhsk
 棙	dhsk
 棿	dhxu
@@ -590,10 +590,10 @@ sort: original
 洂	eylc
 涉	eylh
 渉	eylh
+瀛	eyrn	(cj3ext)
 渟	eyrn
 涥	eyrn
 湸	eyrn
-瀛	eyrn	(cj3ext)
 游	eysd
 湤	eysd
 滝	eytu
@@ -801,8 +801,8 @@ sort: original
 凢	hhn
 簁	hhoo
 篵	hhoo
-么	hi
 鬼	hi	(cj3ext)
+么	hi
 鵝	hihaf
 鵞	hihaf
 鴟	hihaf
@@ -905,14 +905,14 @@ sort: original
 郈	hrnl
 啟	hrok
 敋	hrok
+乍	hs	(cj3ext)
 戶	hs
 勹	hs
-乍	hs	(cj3ext)
 筐	hsmg
 籊	hsmg
 箼	hsmg
-憅	hsp
 怎	hsp	(cj3ext)
+憅	hsp
 戽	hsyj
 簈	hsyj
 箕	htmc
@@ -952,8 +952,8 @@ sort: original
 舤	hyhni
 舧	hyhni
 籩	hyhs
-舮	hyhs
 舴	hyhs	(cj3ext)
+舮	hyhs
 虒	hypn
 箎	hypn
 虒	hypu
@@ -975,8 +975,8 @@ sort: original
 鵳	ibhaf
 郙	ibnl
 鄘	ibnl
-麽	idhi
 魔	idhi	(cj3ext)
+麽	idhi
 盚	iebt
 盋	iebt
 皴	iedhe
@@ -1386,8 +1386,8 @@ sort: original
 氹	ne
 亟	nem
 丞	nem
-魲	nfhs
 鮓	nfhs	(cj3ext)
+魲	nfhs
 鮄	nflln
 魸	nflln
 魜	nfo
@@ -1440,8 +1440,8 @@ sort: original
 熃	nsf
 弬	nsll
 弫	nsll
-弢	nue
 函	nue	(cj3ext)
+弢	nue
 頠	numbc
 顄	numbc	(cj3ext)
 內	ob
@@ -1463,8 +1463,8 @@ sort: original
 玍	og
 集	ogd
 栠	ogd
-雙	oge
 隻	oge
+雙	oge
 鶴	oghaf
 鵀	oghaf
 犨	oghq
@@ -1476,8 +1476,8 @@ sort: original
 售	ogr
 佶	ogr
 舎	ogr
-仫	ohi
 傀	ohi	(cj3ext)
+仫	ohi
 伐	oi
 仏	oi
 亽	oi
@@ -1491,8 +1491,8 @@ sort: original
 侌	oini
 代	oip
 怤	oip
-什	oj
 午	oj
+什	oj
 仐	oj
 儾	ojbv
 値	ojbv
@@ -1541,8 +1541,8 @@ sort: original
 欫	omno
 合	omr
 佦	omr
-侸	omrt
 盒	omrt	(cj3ext)
+侸	omrt
 弇	omrt	(cj3ext)
 偪	omrw
 畣	omrw	(cj3ext)
@@ -1595,8 +1595,8 @@ sort: original
 聟	orsj
 翕	orsmm
 翖	orsmm
-敆	orye
 假	orye	(cj3ext)
+敆	orye
 伊	osk
 仭	osk
 怎	osp
@@ -1693,8 +1693,8 @@ sort: original
 揙	qhsb
 撽	qhsk
 捩	qhsk
-揑	qhxm
 捏	qhxm	(cj3ext)
+揑	qhxm
 找	qi
 払	qi
 摵	qihf
@@ -1760,8 +1760,8 @@ sort: original
 摙	qyjj
 拤	qymy
 挊	qymy
-揨	qyrn
 攍	qyrn	(cj3ext)
+揨	qyrn
 吧	rau
 邑	rau
 員	rbuc
@@ -1980,8 +1980,8 @@ sort: original
 藒	thdv
 薰	thgf
 薫	thgf
-茱	thjd
 孽	thjd	(cj3ext)
+茱	thjd
 芃	thni
 葻	thni
 薇	thok
@@ -2356,8 +2356,8 @@ sort: original
 黒	wgf
 略	wher
 畧	wher
-毌	wj
 毋	wj	(cj3ext)
+毌	wj
 鸅	wjhaf
 鷝	wjhaf
 町	wmn
@@ -2398,8 +2398,8 @@ sort: original
 逶	yhdv
 褎	yhdv
 襃	yhdv
-産	yhhqm
 產	yhhqm	(cj3ext)
+産	yhhqm
 頻	yhmbc
 顏	yhmbc
 顪	yhmbc
@@ -2502,8 +2502,8 @@ sort: original
 乩	yru
 謫	yrycb
 謪	yrycb
-敁	yrye
 遐	yrye	(cj3ext)
+敁	yrye
 謔	yrypm
 謯	yrypm
 譃	yrypm
